@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fitnessTracker</string>
+    <string name="title_activity_main">fitnessTracker</string>
+    <string name="package_name">com.sacchi.fitnessTracker</string>
+    <string name="custom_url_scheme">com.sacchi.fitnessTracker</string>
+</resources>
