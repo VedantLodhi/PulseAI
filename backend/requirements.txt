@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+motor
+passlib
+bcrypt
+python-multipart
+python-jose[cryptography]
+aiosmtplib
+opencv-python
+opencv-python-headless
+numpy<=1.21.6  # Ensures compatibility with older Python versions
+pydantic
+pyJWT
+mediapipe
+websockets
+python-dotenv  # Correct library name for dotenv
